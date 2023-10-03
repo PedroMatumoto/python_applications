@@ -1,5 +1,9 @@
 #pegar um json com os dados da taxa selic e transformar em um csv
 
+# caso não possua, instalar estas bibliotecas:
+# pip install json
+# pip install csv
+# pip install urllib
 import json
 import csv
 
